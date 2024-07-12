@@ -1,6 +1,6 @@
 <b> Get-UnixUserPassword </b>
 
-Finds accounts with unixUserPassword in the domain, converts them to clear-text and displays them. 
+Finds accounts with unixUserPassword in the domain, converts them (from decimal or hex) to Clear-text, and displays them. 
 
 RED teams - potential credentials harvesting; 
 
